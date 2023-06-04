@@ -2,7 +2,7 @@
 
 This project contains GGBotNet fonts licensed under the Creative Commons Zero v1.0 Universal.
 
-(PREVIEW.png)
+!(PREVIEW.png)
 
 ## License
 
