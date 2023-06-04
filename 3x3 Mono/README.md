@@ -5,3 +5,4 @@ Recommended settings for the font
 Size:
 3, 6, 12, 24, 48 pt (points)
 4, 8, 16, 32, 64 px (pixel)
+ 
