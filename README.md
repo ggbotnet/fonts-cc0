@@ -1,4 +1,4 @@
-# Fonts CC0
+# GGBotNet Fonts CC0
 
 This project contains GGBotNet fonts licensed under the Creative Commons Zero v1.0 Universal.
 
