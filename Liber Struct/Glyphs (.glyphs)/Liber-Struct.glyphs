@@ -26,7 +26,7 @@ name = fontstructKey;
 value = 3ab32452661e08f1e163363045f84436b6a589a9;
 },
 );
-date = "2025-11-27 21:09:11 +0000";
+date = "2025-11-29 21:09:07 +0000";
 designer = "\U201cGGBotNet\U201d";
 designerURL = "/fontstructors/2624331";
 familyName = "Liber Struct";
@@ -31707,7 +31707,7 @@ layers = (
 {
 layerId = fs2695241;
 name = Regular;
-width = 1280;
+width = 1152;
 components = (
 {
 name = "round-corner-1";
@@ -31825,7 +31825,7 @@ layers = (
 {
 layerId = fs2695241;
 name = Regular;
-width = 1280;
+width = 1152;
 components = (
 {
 name = "round-corner-1";
@@ -31886,7 +31886,7 @@ layers = (
 {
 layerId = fs2695241;
 name = Regular;
-width = 1280;
+width = 1152;
 components = (
 {
 name = "round-corner-1";
@@ -32155,7 +32155,7 @@ layers = (
 {
 layerId = fs2695241;
 name = Regular;
-width = 1536;
+width = 1408;
 components = (
 {
 name = "double-quarter-square-2";
@@ -32256,7 +32256,7 @@ layers = (
 {
 layerId = fs2695241;
 name = Regular;
-width = 1280;
+width = 1152;
 components = (
 {
 name = "round-corner-1";
@@ -32704,7 +32704,7 @@ layers = (
 {
 layerId = fs2695241;
 name = Regular;
-width = 1280;
+width = 1152;
 components = (
 {
 name = "round-corner-1";
@@ -32822,7 +32822,7 @@ layers = (
 {
 layerId = fs2695241;
 name = Regular;
-width = 1280;
+width = 1152;
 components = (
 {
 name = "round-corner-1";
@@ -33314,7 +33314,7 @@ layers = (
 {
 layerId = fs2695241;
 name = Regular;
-width = 1280;
+width = 1152;
 components = (
 {
 name = "round-corner-1";
@@ -33432,7 +33432,7 @@ layers = (
 {
 layerId = fs2695241;
 name = Regular;
-width = 1280;
+width = 1152;
 components = (
 {
 name = pixel;
@@ -34379,7 +34379,7 @@ layers = (
 {
 layerId = fs2695241;
 name = Regular;
-width = 1280;
+width = 1152;
 components = (
 {
 name = "round-corner-1";
@@ -34440,7 +34440,7 @@ layers = (
 {
 layerId = fs2695241;
 name = Regular;
-width = 1280;
+width = 1152;
 components = (
 {
 name = pixel;
@@ -34550,7 +34550,7 @@ layers = (
 {
 layerId = fs2695241;
 name = Regular;
-width = 1280;
+width = 1152;
 components = (
 {
 name = "round-corner-1";
@@ -34717,7 +34717,7 @@ layers = (
 {
 layerId = fs2695241;
 name = Regular;
-width = 1536;
+width = 1408;
 components = (
 {
 name = "triple-quarter-square-1";
@@ -34806,7 +34806,7 @@ layers = (
 {
 layerId = fs2695241;
 name = Regular;
-width = 1280;
+width = 1152;
 components = (
 {
 name = "round-corner-1";
@@ -34924,7 +34924,7 @@ layers = (
 {
 layerId = fs2695241;
 name = Regular;
-width = 768;
+width = 640;
 components = (
 {
 name = pixel;
@@ -35278,7 +35278,7 @@ layers = (
 {
 layerId = fs2695241;
 name = Regular;
-width = 1280;
+width = 1152;
 components = (
 {
 name = pixel;
@@ -35400,7 +35400,7 @@ layers = (
 {
 layerId = fs2695241;
 name = Regular;
-width = 1280;
+width = 1152;
 components = (
 {
 name = pixel;
@@ -35970,7 +35970,7 @@ layers = (
 {
 layerId = fs2695241;
 name = Regular;
-width = 1280;
+width = 1152;
 components = (
 {
 name = pixel;
@@ -48568,6 +48568,224 @@ transform = "{0.256000,0.000000,0.000000,0.256000,640.000000,384.000000}";
 );
 },
 {
+glyphname = uni1F6B9;
+unicode = 1F6B9;
+layers = (
+{
+layerId = fs2695241;
+name = Regular;
+width = 1536;
+components = (
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,128.000000,1152.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,128.000000,896.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,128.000000,640.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,128.000000,384.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,128.000000,128.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,384.000000,128.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,640.000000,128.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,896.000000,128.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,1152.000000,128.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,1152.000000,384.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,1152.000000,640.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,1152.000000,896.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,1152.000000,1152.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,896.000000,1152.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,640.000000,1152.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,384.000000,1152.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,384.000000,896.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,896.000000,896.000000}";
+},
+{
+name = "block-with-staggered-round-punch-1";
+transform = "{0.256000,0.000000,0.000000,0.256000,640.000000,896.000000}";
+},
+{
+name = "inverted-isosceles-4";
+transform = "{0.256000,0.000000,0.000000,-0.256000,640.000000,384.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,-0.256000,384.000000,384.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,-0.256000,896.000000,384.000000}";
+},
+{
+name = "inverted-half-width-triangle-1";
+transform = "{0.256000,0.000000,0.000000,-0.256000,384.000000,640.000000}";
+},
+{
+name = "inverted-half-width-triangle-5";
+transform = "{0.256000,0.000000,0.000000,-0.256000,896.000000,640.000000}";
+},
+);
+},
+);
+},
+{
+glyphname = uni1F6BA;
+unicode = 1F6BA;
+layers = (
+{
+layerId = fs2695241;
+name = Regular;
+width = 1536;
+components = (
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,128.000000,1152.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,128.000000,896.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,128.000000,640.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,128.000000,384.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,128.000000,128.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,384.000000,128.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,640.000000,128.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,896.000000,128.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,1152.000000,128.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,1152.000000,384.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,1152.000000,640.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,1152.000000,896.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,1152.000000,1152.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,896.000000,1152.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,640.000000,1152.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,384.000000,1152.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,384.000000,896.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,896.000000,896.000000}";
+},
+{
+name = "block-with-staggered-round-punch-1";
+transform = "{0.256000,0.000000,0.000000,0.256000,640.000000,896.000000}";
+},
+{
+name = "inverted-isosceles-4";
+transform = "{0.256000,0.000000,0.000000,0.256000,640.000000,640.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,384.000000,640.000000}";
+},
+{
+name = pixel;
+transform = "{0.256000,0.000000,0.000000,0.256000,896.000000,640.000000}";
+},
+{
+name = "inverted-half-width-triangle-1";
+transform = "{0.256000,0.000000,0.000000,0.256000,384.000000,384.000000}";
+},
+{
+name = "inverted-half-width-triangle-5";
+transform = "{0.256000,0.000000,0.000000,0.256000,896.000000,384.000000}";
+},
+);
+},
+);
+},
+{
 glyphname = "round-corner-1";
 layers = (
 {
@@ -50781,6 +50999,45 @@ width = 1000;
 },
 );
 },
+{
+glyphname = "block-with-staggered-round-punch-1";
+layers = (
+{
+layerId = fs2695241;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"-500.0 -500.0 LINE",
+"500.0 -500.0 LINE",
+"500.0 500.0 LINE",
+"-500.0 500.0 LINE",
+);
+},
+{
+closed = 1;
+nodes = (
+"-400.0 0.0 CURVE SMOOTH",
+"-400.0 221.0 OFFCURVE",
+"-221.0 400.0 OFFCURVE",
+"0.0 400.0 CURVE SMOOTH",
+"221.0 400.0 OFFCURVE",
+"400.0 221.0 OFFCURVE",
+"400.0 0.0 CURVE SMOOTH",
+"400.0 -221.0 OFFCURVE",
+"221.0 -400.0 OFFCURVE",
+"0.0 -400.0 CURVE SMOOTH",
+"-221.0 -400.0 OFFCURVE",
+"-400.0 -221.0 OFFCURVE",
+"-400.0 0.0 CURVE SMOOTH",
+);
+},
+);
+width = 1000;
+},
+);
+},
 );
 disablesNiceNames = 1;
 instances = (
@@ -50794,6 +51051,167 @@ unitsPerEm = 2048;
 versionMajor = 1;
 versionMinor = 0;
 kerning = {
-fs2695241 = ();
+fs2695241 = {
+Aybarmenian = {
+menarmenian = 0;
+Kenarmenian = 0;
+Xeharmenian = 0;
+Menarmenian = 0;
+Nowarmenian = 0;
+Hoarmenian = 0;
+Caarmenian = 0;
+Seharmenian = 0;
+Raarmenian = 0;
+Jheharmenian = 0;
+Yiarmenian = 0;
+Peharmenian = 0;
+Gimarmenian = 0;
+Tiwnarmenian = 0;
+Coarmenian = 0;
+Ghadarmenian = 0;
+Reharmenian = 0;
+Liwnarmenian = 0;
+};
+menarmenian = {
+benarmenian = 0;
+comma = 0;
+iniarmenian = 0;
+aybarmenian = 0;
+echarmenian = 0;
+nowarmenian = 0;
+};
+kenarmenian = {
+nowarmenian = 0;
+};
+aybarmenian = {
+yiarmenian = 0;
+nowarmenian = 0;
+};
+toarmenian = {
+yiarmenian = 0;
+};
+yiwnarmenian = {
+nowarmenian = 0;
+};
+nowarmenian = {
+nowarmenian = 0;
+};
+gimarmenian = {
+reharmenian = 0;
+iniarmenian = 0;
+tiwnarmenian = 0;
+voarmenian = 0;
+nowarmenian = 0;
+};
+ghadarmenian = {
+jheharmenian = 0;
+voarmenian = 0;
+yiarmenian = 0;
+echarmenian = 0;
+};
+zaarmenian = {
+aybarmenian = 0;
+gimarmenian = 0;
+iniarmenian = 0;
+};
+tiwnarmenian = {
+commaarmenian = 0;
+};
+liwnarmenian = {
+aybarmenian = 0;
+nowarmenian = 0;
+voarmenian = 0;
+};
+vewarmenian = {
+aybarmenian = 0;
+voarmenian = 0;
+nowarmenian = 0;
+};
+caarmenian = {
+keharmenian = 0;
+};
+echarmenian = {
+keharmenian = 0;
+nowarmenian = 0;
+};
+yiarmenian = {
+nowarmenian = 0;
+};
+iniarmenian = {
+chaarmenian = 0;
+nowarmenian = 0;
+};
+voarmenian = {
+nowarmenian = 0;
+};
+keharmenian = {
+nowarmenian = 0;
+};
+daarmenian = {
+aybarmenian = 0;
+ghadarmenian = 0;
+};
+zhearmenian = {
+aybarmenian = 0;
+shaarmenian = 0;
+};
+raarmenian = {
+keharmenian = 0;
+};
+piwrarmenian = {
+keharmenian = 0;
+};
+Daarmenian = {
+Ghadarmenian = 0;
+};
+Vewarmenian = {
+Nowarmenian = 0;
+};
+Iniarmenian = {
+Nowarmenian = 0;
+};
+Gimarmenian = {
+Nowarmenian = 0;
+Tiwnarmenian = 0;
+Voarmenian = 0;
+Reharmenian = 0;
+Jaarmenian = 0;
+Gimarmenian = 0;
+};
+Nowarmenian = {
+Daarmenian = 0;
+Nowarmenian = 0;
+};
+Piwrarmenian = {
+Keharmenian = 0;
+};
+Yiwnarmenian = {
+Nowarmenian = 0;
+};
+Tiwnarmenian = {
+commaarmenian = 0;
+};
+Raarmenian = {
+Aybarmenian = 0;
+};
+A = {
+W = 0;
+};
+L = {
+T = 0;
+};
+Yiarmenian = {
+Voarmenian = 0;
+};
+obarredcyrillic = {
+Liwnarmenian = 0;
+};
+Liwnarmenian = {
+Liwnarmenian = 0;
+};
+Seharmenian = {
+Yiarmenian = 0;
+};
+};
 };
 }
